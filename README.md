@@ -1,5 +1,6 @@
 # cf-HelloWorld
-A Hello World Cloud Foundry Example written with Python and the Flask Framework
+A Hello World Cloud Foundry Example written with Python and the Flask Framework which has been cloned from the original repo as per the instructions below.  
+The application code for this project was taken from 'vchrisb', who's repository can be found at: https://github.com/vchrisb/cf-HelloWorld.git
 
 
 ## Requirements
@@ -13,3 +14,5 @@ A Hello World Cloud Foundry Example written with Python and the Flask Framework
   * if using Pivotal Web Services use `api.run.pivotal.io` as the target
 * Modify the application name in `manifest.yml` to be unique
 * push the application to Cloud Foundry with: `cf push`
+
+
